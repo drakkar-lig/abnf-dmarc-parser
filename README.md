@@ -13,7 +13,7 @@ object contains the parsed (understood) values following the specification.
 ## Install :
 
 ``` 
-pip install git+https://github.com/anonymous-deposit/abnf-dmarc-parser-pam
+pip install git+https://github.com/drakkar-lig/abnf-dmarc-parser
 ```
 
 ## Usage
