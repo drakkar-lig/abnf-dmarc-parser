@@ -1,6 +1,6 @@
 [project]
 name = "dmarcparser"
-authors = [{ name = "Anonymmous", email = "ano@nymo.us" }]
+authors = [{ name = "Jan Bayer", email = "jan.bayer@korlabs.io" }, { name = "Olivier Hureau", email = "olivier.hureau@univ-grenoble-alpes.fr" }]
 license = { text = "Apache-2.0" }
 description = "Accurately separates a URL's subdomain, domain, and public suffix, using the Public Suffix List (PSL). By default, this includes the public ICANN TLDs and their exceptions. You can optionally support the Public Suffix List's private domains as well."
 keywords = [
